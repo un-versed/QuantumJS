@@ -1,0 +1,19 @@
+{
+    "name": "quantum-framework",
+    "version": "1.0.0",
+    "description": "Quantum Labs Framework.",
+    "main": "quantum.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/un-versed/QuantumJS.git"
+    },
+    "author": "Gustavo Henrique & Jonata Santos",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/un-versed/QuantumJS/issues"
+    },
+    "homepage": "https://github.com/un-versed/QuantumJS#readme"
+}
