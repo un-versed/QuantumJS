@@ -1,6 +1,6 @@
 {
     "name": "quantum-framework",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Quantum Labs Framework.",
     "main": "quantum.js",
     "scripts": {
@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/un-versed/QuantumJS#readme",
     "dependencies": {
+        "gerador-validador-cpf": "^3.1.1",
         "validator": "^8.0.0"
     }
 }
